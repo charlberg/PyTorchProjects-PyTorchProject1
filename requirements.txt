@@ -1,0 +1,5 @@
+streamlit
+torch==2.4.1         # Must match torch-directml compatibility if DirectML
+torchvision==0.19.1
+Pillow
+matplotlib
